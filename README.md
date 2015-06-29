@@ -1,2 +1,2 @@
 # sample-repo
-sample
+It is a read me file
